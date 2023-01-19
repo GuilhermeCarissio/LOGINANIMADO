@@ -7,6 +7,6 @@
 
 <h3>Tecnologias usadas:<h3/>
 
-![142-1423886_html5-css3-js-html-css-javascript (1)](https://user-images.githubusercontent.com/79383274/212827776-7faf5ce6-9c45-4ed8-9bf4-804aca9c7df7.png)
+![hqdefault](https://user-images.githubusercontent.com/79383274/213341555-db7a8c59-81b5-4169-82c8-2abdf19b45de.jpg)
 
 <h3>Link do projeto: https://guilhermecarissio.github.io/LOGINANIMADO/<h3/>
